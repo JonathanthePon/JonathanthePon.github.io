@@ -1,5 +1,5 @@
 I am an undergraduate student at UC Santa Barbara majoring in computer science, looking towards artficial intelligence and machine learning. I am a highly motivated student, seeking to utilize excellent communication, interpersonal, and technical ability in an intern position in computer science or any related field.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Last summer, I worked as a software engineering intern at AMAX Engineering, working with senior software engineers to improve  the productive efficiency of servers by 15% and also forecast production time for each server  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I'm not programming, you can find me climbing or lifting at the gym, spending time in nature, or playing a musical instrument(clarinet, piano, guitar).
