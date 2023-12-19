@@ -2,96 +2,98 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jonathan Zhang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 28th July 2023
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Undergraduate
+      institution: University of California, Santa Barbara
+      year: Sep 2023 - Mar 2026 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Description 1.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Foundations of Computer Science, Computer Organization and Logic Design, Problem Solving with Computers I, Problem Solving With Computers II
+            - Vector Calculus, Differential Equations, Linear Algebra
+        - title: Extracurricular Activities
+          contents:
+            - Coders SB, Taiwanaese American Student Association Intern, Intramural Volleyball/Basketball
+    - title: High School Diploma
+      institution: Mission San Jose High School
+      year: Aug 2019 - June 2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Sales Operations Specialist
+      institution: ByteBridge
+      year: Jun 2023 - Nov 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Managed over 20+ orders from Google, Paypal, and Palo Alto Networks, resulting in $250,000, 28% more than last quarter’s sales
+        - Introduced and implemented Odoo, a novel business management software, reducing sales cycle time by 34%
+        - Improved sales operation techniques, making processing orders more efficient and easier
+ 
+
+    - title: Software Engineering Intern
+      institution: AMAX Engineering
+      year: Jun 2022 - Sep 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Collaborated on the Cycle Time Project, using Python to increase the productive efficiency of servers by 15% and also forecast production time for each server  
+        - Utilized Java-based code to reduce sales order process time by 11% by reducing redundancy in the business management software
+        - Developed an automated script in Python that improved software testing efficiency by 13%
+        - Troubleshooted 15+ problems each week and made 10 unique test cases for each project 
+        - Generated weekly reports with data-driven insights, supporting strategic planning and resource allocation
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    # - title: Director
+    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+    #   year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    # - title: Professor of Theoretical Physics
+    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #   year: 1911 - 1917
+    #   description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    # - title: Associate Professor of Theoretical Physics
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - USA Computing Olympiad Silver
+    # - year: 2029
+    #   items: 
+    #     - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI & Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - With the rise of AI, I would love to examine the practical applications of machine learning in areas like natural language processing, computer vision, and predictive analytics
+        - I am interested in the ethical considerations and societal impacts of AI, focusing on topics like bias, privacy, and the future of work
+    - title: Software Engineering
       items:
-        - Description 1.
-        - Description 2.
+        - Comprehensive study of the stages of software development, including requirement analysis, design, coding, testing, and maintenance have always been a keen interest of mine
+        - I want to learn more about modern software development methodologies like Agile and DevOps practices for faster and more efficient software delivery
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Lifting, Volleyball, Marching Band, and Yoga
